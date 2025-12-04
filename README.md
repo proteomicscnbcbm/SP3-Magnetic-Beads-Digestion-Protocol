@@ -48,3 +48,18 @@ This modular approach enables:
 
 ## 📁 Repository Structure
 
+├── protocols/
+│ ├── part1_binding.py
+│ ├── part2_washing.py
+│ └── part3_digestion.py
+├── deck_layouts/
+│ └── deck_map_2_4_6_columns.pdf
+├── consumables/
+│ └── consumables_list.md
+├── docs/
+│ ├── optimization_notes.md
+│ ├── ANN_parameters.md
+│ └── troubleshooting.md
+├── notes/
+├── LICENSE
+└── README.md
