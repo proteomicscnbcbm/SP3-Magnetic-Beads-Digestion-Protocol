@@ -1,0 +1,54 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="420" fill="url(#bg)" rx="22"/>
+  <text x="30" y="55" fill="#e2e8f0" font-size="28" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Opentrons OT-2 — Magnetic Bead Proteomics</text>
+  <text x="30" y="90" fill="#cbd5e1" font-size="18" font-family="'Segoe UI', 'Inter', sans-serif">Three-part automated workflow with tip-saving alternate-column strategy.</text>
+
+  <g transform="translate(30,130)">
+    <rect width="240" height="220" rx="12" fill="#0ea5e9" opacity="0.2" stroke="#38bdf8" stroke-width="2"/>
+    <text x="20" y="32" fill="#e0f2fe" font-size="20" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">1. Protein Binding</text>
+    <text x="20" y="60" fill="#bae6fd" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif">Hydroxyl beads + protein samples</text>
+    <rect x="20" y="90" width="200" height="40" rx="8" fill="#38bdf8" opacity="0.4"/>
+    <text x="30" y="116" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Magnet Engage</text>
+    <rect x="20" y="140" width="200" height="40" rx="8" fill="#38bdf8" opacity="0.4"/>
+    <text x="30" y="166" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Binding Incubation</text>
+    <rect x="20" y="190" width="200" height="40" rx="8" fill="#38bdf8" opacity="0.4"/>
+    <text x="30" y="216" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Bead Capture</text>
+  </g>
+
+  <g transform="translate(330,130)">
+    <rect width="240" height="220" rx="12" fill="#22c55e" opacity="0.18" stroke="#4ade80" stroke-width="2"/>
+    <text x="20" y="32" fill="#ecfdf3" font-size="20" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">2. Wash & Cleanup</text>
+    <text x="20" y="60" fill="#dcfce7" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif">Detergent + salt removal</text>
+    <rect x="20" y="90" width="200" height="40" rx="8" fill="#4ade80" opacity="0.35"/>
+    <text x="30" y="116" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Ethanol Wash</text>
+    <rect x="20" y="140" width="200" height="40" rx="8" fill="#4ade80" opacity="0.35"/>
+    <text x="30" y="166" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Buffer Exchange</text>
+    <rect x="20" y="190" width="200" height="40" rx="8" fill="#4ade80" opacity="0.35"/>
+    <text x="30" y="216" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Drying</text>
+  </g>
+
+  <g transform="translate(630,130)">
+    <rect width="240" height="220" rx="12" fill="#a855f7" opacity="0.18" stroke="#c084fc" stroke-width="2"/>
+    <text x="20" y="32" fill="#faf5ff" font-size="20" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">3. Digest & Elute</text>
+    <text x="20" y="60" fill="#f3e8ff" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif">Trypsin + TFA neutralization</text>
+    <rect x="20" y="90" width="200" height="40" rx="8" fill="#c084fc" opacity="0.35"/>
+    <text x="30" y="116" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Protease Addition</text>
+    <rect x="20" y="140" width="200" height="40" rx="8" fill="#c084fc" opacity="0.35"/>
+    <text x="30" y="166" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Thermal Incubation</text>
+    <rect x="20" y="190" width="200" height="40" rx="8" fill="#c084fc" opacity="0.35"/>
+    <text x="30" y="216" fill="#0b1220" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700">Peptide Elution</text>
+  </g>
+
+  <g transform="translate(40,370)">
+    <circle cx="12" cy="12" r="12" fill="#38bdf8"/>
+    <circle cx="72" cy="12" r="12" fill="#4ade80"/>
+    <circle cx="132" cy="12" r="12" fill="#c084fc"/>
+    <text x="170" y="18" fill="#cbd5e1" font-size="14" font-family="'Segoe UI', 'Inter', sans-serif">Automated steps with magnet module + temperature control</text>
+  </g>
+</svg>
