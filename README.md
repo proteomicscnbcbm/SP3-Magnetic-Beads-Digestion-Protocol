@@ -5,7 +5,7 @@
 [![Proteomics](https://img.shields.io/badge/workflow-proteomics-purple.svg)]()
 [![Bead-based digestion](https://img.shields.io/badge/method-magnetic_beads-orange.svg)]()
 
-![OT-2 workflow illustration showing the three protocol modules](docs/images/ot2_workflow.svg)
+![OT-2 workflow illustration showing the three protocol modules](docs/images/abstract_imagen.jpg)
 
 ---
 
