@@ -25,8 +25,8 @@ The workflow builds on the study:
 
 ---
 
-## 🧬 Protocol Modules
-The workflow is split into **three operational modules** to satisfy pipette tip constraints and to support up to **6 alternate columns (even-numbered positions)**:
+## 🧬 Protocol Steps
+The workflow is split into **three operational steps** to satisfy pipette tip constraints and to support up to **6 alternate columns (even-numbered positions)**:
 
 <p align="center">
   <img src="docs/images/ot2_workflow.png" width="60%" />
